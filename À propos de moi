@@ -1,0 +1,94 @@
+<!DOCTYPE htlm>
+<htlm>
+	<head>
+<title>Présentation de mon personnage</title>
+<meta charset="utf-8">
+<link rel="stylesheet" href="perso.CSS">
+</head>
+<body>
+
+	<h1> Prentation sur moi même </h1>
+		<h2> Origine </h2>
+		<table border cellpading="10 cell spacing="20>
+		<tr>
+			<td> Nom:</td> <td> Serigne Saliou Diene</td>
+		</tr>
+			<tr>
+			<td> Lieu de naissance:</td> <td> Dakar,Sénégal</td>
+		</tr>
+		<tr>
+			<td> Date de naissance:</td> <td> 23 Avril 2006</td>
+		</tr>
+		<tr>
+			<td> Âge:</td> <td>17 </td>
+		</tr>
+		<tr>
+			<td> Statut:</td> <td> Citoyen, étudiant</td
+		</tr>
+	</table>
+
+
+<A HREF="https://perspective.usherbrooke.ca/bilan/servlet/BMPays/SEN">
+	<div align="center">
+  <img src="sen.png"/>
+  </div>
+</A>
+			
+
+	</ul>
+
+	<h4> Plus de détails:</h4>
+	<pa> Les 13 premiers années de ma vie se sont déroulé au Sénégal là où j'ai passé tout mon enfance et grandi avec des personnes merveilleux. Par la suite je suis venu au Canada en 2019 et c'était un environemment très différent dans laquel de devais m'adapter. Au début c'était difficile de s'intégrer à cause de la pandémie mais au fûr et à mesure j'ai rencontré des gens qui m'ont aidé à surmonté des difficultés. Je pense que ma venue au Canada va m'offir beaucoup de possibilité que le Bled n'offre pas et que j'aurai un avenir plus assuré  </pa>
+
+	<div align="left">
+	<img src="light.jpg" width="900"height="20"/>
+	</div>
+
+
+	<h3> Mes loisirs </h3>
+	<ul>
+
+    <li>Lire</li>
+    <li>Faire du sport (soccer, escalade)</li>
+    <li>Cuisine </li>
+    <li>Divertissements ( jeux vidéos, anime, manga, Netflix)</li>
+    <li>Amis et familles</li>
+
+  </ul>
+
+  <div align="left">
+	<img src="light.jpg" width="900"height="50"/>
+	</div>
+
+<div align="center">
+  <img src="drapeau.png"/>
+  </div>
+</A>
+
+  <h3>Mes caractéristiques</h3>
+
+  <table>
+		<tr>
+			<td> Calme</td> <td> Respectueux</td>
+		</tr>
+		<tr>
+			<td>Ouvert d'esprit</td><td>Curieux</td>
+		</tr>
+		<tr>
+			<td>Autonome</td><td>Indépendant</td>
+			</tr>
+
+	</table>
+
+	
+
+	<p>Mon CV:<a href="file:///D:/Portfolio%20webs/%C3%80%20propos%20de%20moi%20(CV).html">Clique Ici</a></p>
+
+	<BODY LINK="#Red"VLINK="Blue"ALINK=="#Red">
+
+	<A HREF="file:///D:/Portfolio%20webs/Formulaire%20CV.html" style="text-decoration:none">Appuie moi si tu veux voir mon CV (formulaire)</A>
+
+	
+
+</body>
+</htlm>
